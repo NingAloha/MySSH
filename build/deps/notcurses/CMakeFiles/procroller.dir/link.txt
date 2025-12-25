@@ -1,0 +1,3 @@
+D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\procroller.dir/objects.a
+D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\procroller.dir/objects.a @CMakeFiles\procroller.dir\objects1.rsp
+D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\procroller.dir/objects.a -Wl,--no-whole-archive -o procroller.exe -Wl,--out-implib,libprocroller.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\procroller.dir\linkLibs.rsp

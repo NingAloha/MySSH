@@ -1,0 +1,3 @@
+D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\scp.dir/objects.a
+D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\scp.dir/objects.a @CMakeFiles\scp.dir\objects1.rsp
+D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\scp.dir/objects.a -Wl,--no-whole-archive -o scp.exe -Wl,--out-implib,libscp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\scp.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\ssh2.dir/objects.a
+D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\ssh2.dir/objects.a @CMakeFiles\ssh2.dir\objects1.rsp
+D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\ssh2.dir/objects.a -Wl,--no-whole-archive -o ssh2.exe -Wl,--out-implib,libssh2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ssh2.dir\linkLibs.rsp

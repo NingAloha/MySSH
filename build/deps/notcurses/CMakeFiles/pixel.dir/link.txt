@@ -1,0 +1,3 @@
+D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\pixel.dir/objects.a
+D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\pixel.dir/objects.a @CMakeFiles\pixel.dir\objects1.rsp
+D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\pixel.dir/objects.a -Wl,--no-whole-archive -o pixel.exe -Wl,--out-implib,libpixel.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pixel.dir\linkLibs.rsp

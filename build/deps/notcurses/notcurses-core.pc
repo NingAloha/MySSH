@@ -1,0 +1,14 @@
+prefix=C:/Program Files (x86)/MySSH
+exec_prefix=C:/Program Files (x86)/MySSH
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: notcurses-core
+Description: TUI library for modern terminal emulators (core library)
+Version: 3.0.17
+
+Requires:
+Requires.private: ncursesw;systre;tre;intl;iconv
+Libs: -L${libdir} -lnotcurses-core
+Libs.private: -lunistring -lm
+Cflags: -I${includedir}

@@ -1,0 +1,1 @@
+  -L/usr/local/lib  libnotcurses++.dll.a -lwsock32 -lws2_32 -lsecur32 libnotcurses.dll.a "libnotcurses-core.dll.a" -lwsock32 -lws2_32 -lsecur32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

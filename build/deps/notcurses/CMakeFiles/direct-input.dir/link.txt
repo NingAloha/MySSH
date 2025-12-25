@@ -1,0 +1,3 @@
+D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\direct-input.dir/objects.a
+D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\direct-input.dir/objects.a @CMakeFiles\direct-input.dir\objects1.rsp
+D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\direct-input.dir/objects.a -Wl,--no-whole-archive -o direct-input.exe -Wl,--out-implib,libdirect-input.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\direct-input.dir\linkLibs.rsp

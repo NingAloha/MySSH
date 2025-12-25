@@ -1,0 +1,3 @@
+D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\nctetris.dir/objects.a
+D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\nctetris.dir/objects.a @CMakeFiles\nctetris.dir\objects1.rsp
+D:\MYSY2\mingw64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\nctetris.dir/objects.a -Wl,--no-whole-archive -o nctetris.exe -Wl,--out-implib,libnctetris.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\nctetris.dir\linkLibs.rsp

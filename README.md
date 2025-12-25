@@ -13,8 +13,8 @@ ___
 - 核心组合推荐（Provided by gpt-4.1）：libssh2 + notcurses。
 ## 项目任务
 ___
-- [ ]  选定并配置SSH库（如libssh2） — CMakeLists.txt, deps/（libssh2）
-- [ ]  选定并配置终端UI库（如notcurses） — CMakeLists.txt, deps/（notcurses 或 ncurses）
+- [x]  选定并配置SSH库（libssh2） — CMakeLists.txt, deps/（libssh2）
+- [x]  选定并配置终端UI库（notcurses） — CMakeLists.txt, deps/（notcurses）
 - [ ]  搭建基础终端UI框架 — main.cpp, ui.cpp, ui.h（notcurses/ncurses）
 - [ ]  实现SSH连接与认证功能 — ssh_client.cpp, ssh_client.h（libssh2）
 - [ ]  实现命令输入与远程输出显示 — main.cpp, ssh_client.cpp（libssh2, notcurses/ncurses）

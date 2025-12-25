@@ -1,0 +1,3 @@
+D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\zalgo.dir/objects.a
+D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\zalgo.dir/objects.a @CMakeFiles\zalgo.dir\objects1.rsp
+D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\zalgo.dir/objects.a -Wl,--no-whole-archive -o zalgo.exe -Wl,--out-implib,libzalgo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\zalgo.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\blitters.dir/objects.a
+D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\blitters.dir/objects.a @CMakeFiles\blitters.dir\objects1.rsp
+D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\blitters.dir/objects.a -Wl,--no-whole-archive -o blitters.exe -Wl,--out-implib,libblitters.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\blitters.dir\linkLibs.rsp

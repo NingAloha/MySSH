@@ -1,0 +1,3 @@
+D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\dirlines.dir/objects.a
+D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\dirlines.dir/objects.a @CMakeFiles\dirlines.dir\objects1.rsp
+D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\dirlines.dir/objects.a -Wl,--no-whole-archive -o dirlines.exe -Wl,--out-implib,libdirlines.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dirlines.dir\linkLibs.rsp

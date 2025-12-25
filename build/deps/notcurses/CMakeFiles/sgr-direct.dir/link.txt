@@ -1,0 +1,3 @@
+D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\sgr-direct.dir/objects.a
+D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\sgr-direct.dir/objects.a @CMakeFiles\sgr-direct.dir\objects1.rsp
+D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\sgr-direct.dir/objects.a -Wl,--no-whole-archive -o sgr-direct.exe -Wl,--out-implib,libsgr-direct.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sgr-direct.dir\linkLibs.rsp
