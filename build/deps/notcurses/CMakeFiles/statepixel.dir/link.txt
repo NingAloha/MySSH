@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\statepixel.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\statepixel.dir/objects.a @CMakeFiles\statepixel.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\statepixel.dir/objects.a -Wl,--no-whole-archive -o statepixel.exe -Wl,--out-implib,libstatepixel.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\statepixel.dir\linkLibs.rsp

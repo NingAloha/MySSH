@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\notcurses-ffi.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\notcurses-ffi.dir/objects.a @CMakeFiles\notcurses-ffi.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -shared -o libnotcurses-ffi.dll -Wl,--out-implib,libnotcurses-ffi.dll.a -Wl,--major-image-version,3,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\notcurses-ffi.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\notcurses-ffi.dir\linkLibs.rsp

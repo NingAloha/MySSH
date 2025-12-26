@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\test_read.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\test_read.dir/objects.a @CMakeFiles\test_read.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\test_read.dir/objects.a -Wl,--no-whole-archive -o test_read.exe -Wl,--out-implib,libtest_read.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\test_read.dir\linkLibs.rsp

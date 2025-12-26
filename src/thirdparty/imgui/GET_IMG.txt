@@ -1,0 +1,14 @@
+# 下载 ImGui 官方源码
+# https://github.com/ocornut/imgui
+# 推荐版本：最新 release/mainline
+# 需包含以下文件：
+# imgui.cpp, imgui_draw.cpp, imgui_tables.cpp, imgui_widgets.cpp, imgui_demo.cpp
+# imgui.h, imgui_internal.h, imconfig.h, imstb_rectpack.h, imstb_textedit.h, imstb_truetype.h
+
+# 你可以手动下载并放入 src/thirdparty/imgui/，也可用如下 PowerShell 命令：
+
+# git clone --depth=1 https://github.com/ocornut/imgui.git d:/Repo/Project/MySSH/src/thirdparty/imgui
+
+# 或直接下载 zip 包解压到该目录。
+
+# 下载完成后，继续自动集成到 CMake。

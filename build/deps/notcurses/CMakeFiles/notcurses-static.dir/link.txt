@@ -1,2 +1,0 @@
-D:\MYSY2\mingw64\bin\ar.exe qc libnotcurses.a "CMakeFiles/notcurses-static.dir/src/media/ffmpeg.c.obj" "CMakeFiles/notcurses-static.dir/src/media/none.c.obj" "CMakeFiles/notcurses-static.dir/src/media/oiio-indep.c.obj" "CMakeFiles/notcurses-static.dir/src/media/oiio.cpp.obj" "CMakeFiles/notcurses-static.dir/src/media/shim.c.obj" "CMakeFiles/notcurses-static.dir/src/compat/compat.c.obj"
-D:\MYSY2\mingw64\bin\ranlib.exe libnotcurses.a

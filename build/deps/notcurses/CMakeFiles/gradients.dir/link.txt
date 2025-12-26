@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\gradients.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\gradients.dir/objects.a @CMakeFiles\gradients.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\gradients.dir/objects.a -Wl,--no-whole-archive -o gradients.exe -Wl,--out-implib,libgradients.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gradients.dir\linkLibs.rsp

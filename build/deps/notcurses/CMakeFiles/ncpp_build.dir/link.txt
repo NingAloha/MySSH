@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\ncpp_build.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\ncpp_build.dir/objects.a @CMakeFiles\ncpp_build.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\ncpp_build.dir/objects.a -Wl,--no-whole-archive -o ncpp_build.exe -Wl,--out-implib,libncpp_build.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ncpp_build.dir\linkLibs.rsp

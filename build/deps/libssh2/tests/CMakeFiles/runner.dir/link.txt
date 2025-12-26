@@ -1,2 +1,0 @@
-D:\MYSY2\mingw64\bin\ar.exe qc librunner.a CMakeFiles/runner.dir/runner.c.obj CMakeFiles/runner.dir/session_fixture.c.obj CMakeFiles/runner.dir/openssh_fixture.c.obj
-D:\MYSY2\mingw64\bin\ranlib.exe librunner.a

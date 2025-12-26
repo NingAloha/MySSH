@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\rtl.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\rtl.dir/objects.a @CMakeFiles\rtl.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\rtl.dir/objects.a -Wl,--no-whole-archive -o rtl.exe -Wl,--out-implib,librtl.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\rtl.dir\linkLibs.rsp

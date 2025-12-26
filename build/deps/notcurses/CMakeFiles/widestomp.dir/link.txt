@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\widestomp.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\widestomp.dir/objects.a @CMakeFiles\widestomp.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\widestomp.dir/objects.a -Wl,--no-whole-archive -o widestomp.exe -Wl,--out-implib,libwidestomp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\widestomp.dir\linkLibs.rsp

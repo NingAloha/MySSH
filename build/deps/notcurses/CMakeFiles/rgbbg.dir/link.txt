@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\rgbbg.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\rgbbg.dir/objects.a @CMakeFiles\rgbbg.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\rgbbg.dir/objects.a -Wl,--no-whole-archive -o rgbbg.exe -Wl,--out-implib,librgbbg.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\rgbbg.dir\linkLibs.rsp

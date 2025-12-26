@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\resize.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\resize.dir/objects.a @CMakeFiles\resize.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\resize.dir/objects.a -Wl,--no-whole-archive -o resize.exe -Wl,--out-implib,libresize.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\resize.dir\linkLibs.rsp

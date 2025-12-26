@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\reel.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\reel.dir/objects.a @CMakeFiles\reel.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\reel.dir/objects.a -Wl,--no-whole-archive -o reel.exe -Wl,--out-implib,libreel.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\reel.dir\linkLibs.rsp

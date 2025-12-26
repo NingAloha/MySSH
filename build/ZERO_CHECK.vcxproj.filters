@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Repo\Project\MySSH\build\CMakeFiles\3d70da3be5a13b3c585c6c4cbeea01c6\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{76ABCB87-ED96-35AE-8FBC-39BA43E56723}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

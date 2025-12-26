@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\bitmapstates.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\bitmapstates.dir/objects.a @CMakeFiles\bitmapstates.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\bitmapstates.dir/objects.a -Wl,--no-whole-archive -o bitmapstates.exe -Wl,--out-implib,libbitmapstates.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bitmapstates.dir\linkLibs.rsp

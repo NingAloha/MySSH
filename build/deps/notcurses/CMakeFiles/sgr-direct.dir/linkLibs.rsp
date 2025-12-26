@@ -1,1 +1,0 @@
-  -L/usr/local/lib  -LD:/Repo/Project/MySSH/deps/notcurses  libnotcurses.dll.a -lncursesw -lsystre -ltre -lintl -liconv -lwsock32 -lws2_32 -lsecur32 "libnotcurses-core.dll.a" -lwsock32 -lws2_32 -lsecur32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

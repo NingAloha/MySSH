@@ -1,13 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"D:/Repo/Project/MySSH/build/cmake_install.cmake",
-		"D:/Repo/Project/MySSH/build/deps/libssh2/cmake_install.cmake",
-		"D:/Repo/Project/MySSH/build/deps/libssh2/src/cmake_install.cmake",
-		"D:/Repo/Project/MySSH/build/deps/libssh2/example/cmake_install.cmake",
-		"D:/Repo/Project/MySSH/build/deps/libssh2/tests/cmake_install.cmake",
-		"D:/Repo/Project/MySSH/build/deps/libssh2/docs/cmake_install.cmake",
-		"D:/Repo/Project/MySSH/build/deps/notcurses/cmake_install.cmake"
+		"D:/Repo/Project/MySSH/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

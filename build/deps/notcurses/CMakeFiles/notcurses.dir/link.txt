@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\notcurses.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\notcurses.dir/objects.a @CMakeFiles\notcurses.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\c++.exe -O3 -DNDEBUG -shared -o libnotcurses.dll -Wl,--out-implib,libnotcurses.dll.a -Wl,--major-image-version,3,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\notcurses.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\notcurses.dir\linkLibs.rsp

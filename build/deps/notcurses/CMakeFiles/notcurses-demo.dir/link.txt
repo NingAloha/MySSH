@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\notcurses-demo.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\notcurses-demo.dir/objects.a @CMakeFiles\notcurses-demo.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\notcurses-demo.dir/objects.a -Wl,--no-whole-archive -o notcurses-demo.exe -Wl,--out-implib,libnotcurses-demo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\notcurses-demo.dir\linkLibs.rsp

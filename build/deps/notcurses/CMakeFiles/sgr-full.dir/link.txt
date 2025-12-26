@@ -1,3 +1,0 @@
-D:\MYSY2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\sgr-full.dir/objects.a
-D:\MYSY2\mingw64\bin\ar.exe qc CMakeFiles\sgr-full.dir/objects.a @CMakeFiles\sgr-full.dir\objects1.rsp
-D:\MYSY2\mingw64\bin\cc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\sgr-full.dir/objects.a -Wl,--no-whole-archive -o sgr-full.exe -Wl,--out-implib,libsgr-full.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sgr-full.dir\linkLibs.rsp
