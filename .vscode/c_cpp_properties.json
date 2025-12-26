@@ -4,12 +4,6 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/src/thirdparty/imgui",
-                "d:/Repo/Project/MySSH/src/thirdparty/imgui",
-                "${workspaceFolder}/vcpkg/installed/x64-windows/include",
-                "${workspaceFolder}/vcpkg/installed/x64-windows/include/SDL2",
-                "${workspaceFolder}/deps/libssh2/include",
-                "${workspaceFolder}/deps/notcurses/include",
-                "${workspaceFolder}/deps/notcurses/include/notcurses",
                 "${workspaceFolder}/src/ui/StateMachine/State",
                 "${workspaceFolder}/src/ui/StateMachine",
                 "${workspaceFolder}/src/ui",
